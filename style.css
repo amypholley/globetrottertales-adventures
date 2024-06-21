@@ -10,3 +10,15 @@ ul {
     font-size: medium;
     font-display: white;
 }
+
+footer {
+    display: flex;
+    justify-content: left;
+    gap: 50px;
+    padding: 50px;
+    text-align: left;
+    background-color: rgb(61, 61, 180);
+    color: white;
+    font-size: medium;
+    font-display: rgb(255, 238, 0);
+}
