@@ -1,0 +1,12 @@
+ul {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    list-style: none;
+    padding: 50px;
+    text-align: center;
+    background-color: white;
+    color: white;
+    font-size: medium;
+    font-display: white;
+}
